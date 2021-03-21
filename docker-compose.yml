@@ -1,0 +1,12 @@
+version: "0.0"
+services:
+    back:
+        build: back
+        container_name: back
+        ports:
+          - 5123:5123
+    front:
+        build: front
+        container_name: front
+        ports:
+         - 8080:8080

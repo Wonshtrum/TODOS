@@ -1,0 +1,78 @@
+[
+    {
+        "id_list": 0,
+        "name": "Test",
+        "owner": "admin",
+        "todos": [
+            {
+                "id_todo": 0,
+                "name": "unnamed2",
+                "task": "PUTAIN !",
+                "date": "2021-03-20 21:47:04.666148"
+            },
+            {
+                "id_todo": 1,
+                "name": "unnamed",
+                "task": "MERDE !",
+                "date": "2021-03-20 21:47:10.117788"
+            },
+            {
+                "id_todo": 2,
+                "name": "BORDEL",
+                "task": "MAIS J'AI LE DROIT!",
+                "date": "2021-03-20 21:47:20.695338"
+            },
+            {
+                "id_todo": 3,
+                "name": "\u00e9\u00e0",
+                "task": "\u00ef",
+                "date": "2021-03-20 21:47:37.694115"
+            }
+        ]
+    },
+    {
+        "id_list": 1,
+        "name": "lol2",
+        "owner": "admin",
+        "todos": [
+            {
+                "id_todo": 0,
+                "name": "coding",
+                "task": "something else",
+                "date": "2021-03-12 11:59:30.097070"
+            }
+        ]
+    },
+    {
+        "id_list": 3,
+        "name": "TOKENPLEEEEEASE",
+        "owner": "admin",
+        "todos": [
+            {
+                "id_todo": 0,
+                "name": "mdr",
+                "task": "trop de lol",
+                "date": "2021-03-20 22:00:11.082788"
+            },
+            {
+                "id_todo": 1,
+                "name": "putain",
+                "task": "c'est fini",
+                "date": "2021-03-21 02:03:29.199431"
+            }
+        ]
+    },
+    {
+        "id_list": 5,
+        "name": "newList",
+        "owner": "newUser",
+        "todos": [
+            {
+                "id_todo": 0,
+                "name": "newTodo",
+                "task": "truc",
+                "date": "2021-03-21 01:30:57.356769"
+            }
+        ]
+    }
+]
